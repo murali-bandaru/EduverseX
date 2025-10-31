@@ -1,0 +1,103 @@
+id,institution,city,country,program,level,duration_months,tuition_usd,ranking,website
+
+1,Indian Institute of Technology Bombay,Mumbai,India,Engineering (B.Tech),Bachelors,48,1200,1,https://www.iitb.ac.in/
+2,Indian Institute of Science,Bangalore,India,Science and Research,Bachelors,48,1500,2,https://www.iisc.ac.in/
+3,Indian Institute of Technology Delhi,New Delhi,India,Engineering (B.Tech),Bachelors,48,1300,3,https://home.iitd.ac.in/
+4,Indian Institute of Technology Madras,Chennai,India,Engineering (B.Tech),Bachelors,48,1250,4,https://www.iitm.ac.in/
+5,Indian Institute of Technology Kanpur,Kanpur,India,Engineering (B.Tech),Bachelors,48,1220,5,https://www.iitk.ac.in/
+6,Indian Institute of Technology Kharagpur,Kharagpur,India,Engineering (B.Tech),Bachelors,48,1180,6,https://www.iitkgp.ac.in/
+7,National Institute of Technology Tiruchirappalli,Trichy,India,Engineering (B.Tech),Bachelors,48,900,7,https://www.nitt.edu/
+8,National Institute of Technology Surathkal,Mangalore,India,Engineering (B.Tech),Bachelors,48,920,8,https://www.nitk.ac.in/
+9,Indian Institute of Technology Roorkee,Roorkee,India,Engineering (B.Tech),Bachelors,48,1100,9,https://www.iitr.ac.in/
+10,Delhi Technological University,Delhi,India,Engineering (B.Tech),Bachelors,48,800,10,https://www.dtu.ac.in/
+11,Amrita Vishwa Vidyapeetham,Coimbatore,India,Engineering and Technology,Bachelors,48,850,11,https://www.amrita.edu/
+12,Birla Institute of Technology and Science,Pilani,India,Engineering and Technology,Bachelors,48,950,12,https://www.bits-pilani.ac.in/
+13,SRM Institute of Science and Technology,Chennai,India,Engineering (B.Tech),Bachelors,48,700,13,https://www.srmist.edu.in/
+14,Vellore Institute of Technology,Vellore,India,Engineering (B.Tech),Bachelors,48,750,14,https://vit.ac.in/
+15,Indian Institute of Information Technology Allahabad,Allahabad,India,Information Technology,Bachelors,48,860,15,https://www.iiita.ac.in/
+16,Indian Institute of Technology Guwahati,Guwahati,India,Engineering (B.Tech),Bachelors,48,1120,16,https://www.iitg.ac.in/
+17,Indian Statistical Institute,Kolkata,India,Statistics and Mathematics,Bachelors,36,980,17,https://www.isical.ac.in/
+18,Jawaharlal Nehru University,New Delhi,India,Computer Science,MSc,24,650,18,https://www.jnu.ac.in/
+19,University of Hyderabad,Hyderabad,India,Computer Applications,MCA,24,640,19,https://uohyd.ac.in/
+20,National Institute of Technology Warangal,Warangal,India,Engineering (B.Tech),Bachelors,48,910,20,https://www.nitw.ac.in/
+21,Visvesvaraya Technological University,Belgaum,India,Engineering and Technology,Bachelors,48,500,21,https://vtu.ac.in/
+22,Anna University,Chennai,India,Engineering and Technology,Bachelors,48,450,22,https://www.annauniv.edu/
+23,Osmania University,Hyderabad,India,Computer Applications,MCA,24,400,23,https://www.osmania.ac.in/
+24,University of Mumbai,Mumbai,India,Information Technology,Bachelors,48,420,24,https://mu.ac.in/
+25,Indian Institute of Management Ahmedabad,Ahmedabad,India,Management,MBA,24,2500,25,https://www.iima.ac.in/
+26,Indian Institute of Management Bangalore,Bangalore,India,Management,MBA,24,2400,26,https://www.iimb.ac.in/
+27,Indian Institute of Management Calcutta,Kolkata,India,Management,MBA,24,2300,27,https://www.iimcal.ac.in/
+28,Symbiosis International University,Pune,India,Computer Science,Bachelors,48,800,28,https://www.siu.edu.in/
+29,Christ University,Bangalore,India,Computer Science,Bachelors,48,750,29,https://christuniversity.in/
+30,Manipal Academy of Higher Education,Manipal,India,Computer Science,Bachelors,48,950,30,https://manipal.edu/
+31,Indian Institute of Technology BHU,Varanasi,India,Engineering (B.Tech),Bachelors,48,1170,31,https://www.iitbhu.ac.in/
+32,Indian Institute of Technology Indore,Indore,India,Engineering (B.Tech),Bachelors,48,1160,32,https://www.iiti.ac.in/
+33,Indian Institute of Technology Mandi,Mandi,India,Engineering (B.Tech),Bachelors,48,1150,33,https://www.iitmandi.ac.in/
+34,National Institute of Technology Calicut,Calicut,India,Engineering (B.Tech),Bachelors,48,940,34,https://nitc.ac.in/
+35,National Institute of Technology Rourkela,Rourkela,India,Engineering (B.Tech),Bachelors,48,930,35,https://nitrkl.ac.in/
+36,Jamia Millia Islamia,New Delhi,India,Computer Science,Bachelors,48,600,36,https://www.jmi.ac.in/
+37,Birla Institute of Technology,Ranchi,India,Engineering (B.Tech),Bachelors,48,700,37,https://www.bitmesra.ac.in/
+38,Chandigarh University,Chandigarh,India,Engineering (B.Tech),Bachelors,48,670,38,https://www.cuchd.in/
+39,KIIT University,Bhubaneswar,India,Engineering (B.Tech),Bachelors,48,720,39,https://kiit.ac.in/
+40,Lovely Professional University,Phagwara,India,Engineering (B.Tech),Bachelors,48,710,40,https://www.lpu.in/
+41,SASTRA Deemed University,Thanjavur,India,Engineering (B.Tech),Bachelors,48,650,41,https://www.sastra.edu/
+42,"Bharati Vidyapeeth Deemed University, Pune",Pune,India,Engineering (B.Tech),Bachelors,48,680,42,https://www.bvuniversity.edu.in/
+43,Dayananda Sagar University,Bangalore,India,Engineering (B.Tech),Bachelors,48,590,43,https://www.dsu.edu.in/
+44,Presidency University,Bangalore,India,Computer Science,Bachelors,48,560,44,https://presidencyuniversity.in/
+45,Jain University,Bangalore,India,Computer Science,Bachelors,48,600,45,https://www.jainuniversity.ac.in/
+46,REVA University,Bangalore,India,Engineering (B.Tech),Bachelors,48,620,46,https://www.reva.edu.in/
+47,SR University,Warangal,India,Engineering (B.Tech),Bachelors,48,580,47,https://sru.edu.in/
+48,GITAM University,Visakhapatnam,India,Engineering (B.Tech),Bachelors,48,640,48,https://www.gitam.edu/
+49,ICFAI University,Hyderabad,India,Management,MBA,24,700,49,https://www.icfaiuniversity.in/
+50,MIT World Peace University,Pune,India,Engineering (B.Tech),Bachelors,48,720,50,https://mitwpu.edu.in/
+
+51,Graphic Era University,Dehradun,India,Engineering (B.Tech),Bachelors,48,600,51,https://geu.ac.in/
+52,PES University,Bangalore,India,Engineering (B.Tech),Bachelors,48,650,52,https://www.pes.edu/
+53,KL University,Vijayawada,India,Engineering (B.Tech),Bachelors,48,670,53,https://www.kluniversity.in/
+54,SRM University AP,Amaravati,India,Engineering (B.Tech),Bachelors,48,700,54,https://srmap.edu.in/
+55,Amity University,Noida,India,Engineering and Management,Bachelors,48,800,55,https://www.amity.edu/
+56,Parul University,Vadodara,India,Computer Science,Bachelors,48,600,56,https://paruluniversity.ac.in/
+57,Chandigarh Group of Colleges,Mohali,India,Engineering (B.Tech),Bachelors,48,500,57,https://www.cgc.edu.in/
+58,Vignan University,Guntur,India,Engineering (B.Tech),Bachelors,48,580,58,https://vignan.ac.in/
+59,Galgotias University,Noida,India,Computer Science,Bachelors,48,560,59,https://www.galgotiasuniversity.edu.in/
+60,Alliance University,Bangalore,India,Management,MBA,24,950,60,https://www.alliance.edu.in/
+61,Jaypee Institute of Information Technology,Noida,India,Information Technology,Bachelors,48,620,61,https://www.jiit.ac.in/
+62,CMR Institute of Technology,Bangalore,India,Engineering (B.Tech),Bachelors,48,550,62,https://www.cmrit.ac.in/
+63,Bennett University,Greater Noida,India,Engineering (B.Tech),Bachelors,48,700,63,https://www.bennett.edu.in/
+64,Noida Institute of Engineering and Technology,Noida,India,Engineering (B.Tech),Bachelors,48,520,64,https://www.niet.co.in/
+65,SR University,Warangal,India,Engineering (B.Tech),Bachelors,48,600,65,https://sru.edu.in/
+66,University of Delhi,Delhi,India,Computer Science,Bachelors,48,450,66,https://www.du.ac.in/
+67,Punjab Engineering College,Chandigarh,India,Engineering (B.Tech),Bachelors,48,650,67,https://www.pec.ac.in/
+68,Thapar Institute of Engineering and Technology,Patiala,India,Engineering (B.Tech),Bachelors,48,800,68,https://www.thapar.edu/
+69,Birla Institute of Technology,Mesra,India,Engineering (B.Tech),Bachelors,48,780,69,https://www.bitmesra.ac.in/
+70,Sri Venkateswara University,Tirupati,India,Computer Applications,MCA,24,400,70,https://svuniversity.edu.in/
+71,Andhra University,Vizag,India,Computer Science,Bachelors,48,450,71,https://www.andhrauniversity.edu.in/
+72,Gitam School of Technology,Hyderabad,India,Engineering (B.Tech),Bachelors,48,620,72,https://www.gitam.edu/
+73,Sathyabama Institute of Science and Technology,Chennai,India,Engineering (B.Tech),Bachelors,48,670,73,https://www.sathyabama.ac.in/
+74,Vel Tech University,Chennai,India,Engineering (B.Tech),Bachelors,48,600,74,https://www.veltech.edu.in/
+75,Sri Krishna College of Engineering and Technology,Coimbatore,India,Engineering (B.Tech),Bachelors,48,580,75,https://skcet.ac.in/
+76,Dr. MGR Educational and Research Institute,Chennai,India,Engineering (B.Tech),Bachelors,48,590,76,https://www.drmgrdu.ac.in/
+77,Hindustan Institute of Technology and Science,Chennai,India,Engineering (B.Tech),Bachelors,48,620,77,https://hindustanuniv.ac.in/
+78,PSG College of Technology,Coimbatore,India,Engineering (B.Tech),Bachelors,48,630,78,https://www.psgtech.edu/
+79,Kongu Engineering College,Erode,India,Engineering (B.Tech),Bachelors,48,550,79,https://www.kongu.ac.in/
+80,Coimbatore Institute of Technology,Coimbatore,India,Engineering (B.Tech),Bachelors,48,560,80,https://www.cit.edu.in/
+81,Bannari Amman Institute of Technology,Erode,India,Engineering (B.Tech),Bachelors,48,570,81,https://www.bitsathy.ac.in/
+82,Rajalakshmi Engineering College,Chennai,India,Engineering (B.Tech),Bachelors,48,590,82,https://www.rajalakshmi.org/
+83,Sri Sairam Engineering College,Chennai,India,Engineering (B.Tech),Bachelors,48,580,83,https://sairam.edu.in/
+84,Saveetha Engineering College,Chennai,India,Engineering (B.Tech),Bachelors,48,600,84,https://www.saveetha.ac.in/
+85,Sri Eshwar College of Engineering,Coimbatore,India,Engineering (B.Tech),Bachelors,48,590,85,https://www.sece.ac.in/
+86,Kalasalingam Academy of Research and Education,Virudhunagar,India,Engineering (B.Tech),Bachelors,48,620,86,https://kalasalingam.ac.in/
+87,Karunya Institute of Technology and Sciences,Coimbatore,India,Engineering (B.Tech),Bachelors,48,610,87,https://www.karunya.edu/
+88,SR Engineering College,Warangal,India,Engineering (B.Tech),Bachelors,48,570,88,https://www.srecwarangal.ac.in/
+89,Mahatma Gandhi Institute of Technology,Hyderabad,India,Engineering (B.Tech),Bachelors,48,580,89,https://mgit.ac.in/
+90,CMR University,Bangalore,India,Computer Science,Bachelors,48,560,90,https://www.cmr.edu.in/
+91,Vardhaman College of Engineering,Hyderabad,India,Engineering (B.Tech),Bachelors,48,590,91,https://vardhaman.org/
+92,Anurag University,Hyderabad,India,Engineering (B.Tech),Bachelors,48,600,92,https://anurag.edu.in/
+93,CBIT Hyderabad,Hyderabad,India,Engineering (B.Tech),Bachelors,48,610,93,https://www.cbit.ac.in/
+94,G. Narayanamma Institute of Technology and Science,Hyderabad,India,Engineering (B.Tech),Bachelors,48,590,94,https://www.gnits.ac.in/
+95,Kakatiya Institute of Technology and Science,Warangal,India,Engineering (B.Tech),Bachelors,48,580,95,https://kitsw.ac.in/
+96,Marri Laxman Reddy Institute of Technology and Management,Hyderabad,India,Engineering (B.Tech),Bachelors,48,570,96,https://www.mlrit.ac.in/
+97,Malla Reddy University,Hyderabad,India,Engineering (B.Tech),Bachelors,48,560,97,https://mallareddyuniversity.ac.in/
+98,Guru Nanak Institutions Technical Campus,Hyderabad,India,Engineering (B.Tech),Bachelors,48,570,98,https://www.gniindia.org/
+99,Institute of Aeronautical Engineering,Hyderabad,India,Aeronautical Engineering,Bachelors,48,600,99,https://www.iare.ac.in/
+100,Vaagdevi Engineering College,Warangal,India,Engineering (B.Tech),Bachelors,48,580,100,https://www.vaagdevi.edu.in/

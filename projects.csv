@@ -1,0 +1,263 @@
+title,description,link
+
+"DostRider","Ride Sharing System - a Mini Booking System.","https://github.com/murali-bandaru/RideSharingApp"
+"ShopiCart","Shopping Cart System - cost your cart ","https://github.com/murali-bandaru/ShoppingCartApp"
+
+TensorFlow,End-to-end open-source machine learning platform,https://github.com/tensorflow/tensorflow
+PyTorch,Deep learning framework by Meta AI,https://github.com/pytorch/pytorch
+Scikit-learn,Machine learning library for Python,https://github.com/scikit-learn/scikit-learn
+Keras,High-level neural network API,https://github.com/keras-team/keras
+Hugging Face Transformers,Library for NLP models like BERT and GPT,https://github.com/huggingface/transformers
+LangChain,Framework for building LLM-powered applications,https://github.com/langchain-ai/langchain
+Whisper,Speech recognition model by OpenAI,https://github.com/openai/whisper
+OpenAI GPT-2,Open-source large language model,https://github.com/openai/gpt-2
+AutoGPT,Autonomous GPT-4 experiment using Python,https://github.com/Torantulino/Auto-GPT
+ChatGPT Web UI,ChatGPT-style frontend built with React,https://github.com/mckaywrigley/chatbot-ui
+LlamaIndex,Data framework for building with LLMs,https://github.com/jerryjliu/llama_index
+DeepFace,Face recognition and analysis library for Python,https://github.com/serengil/deepface
+YOLOv8,Object detection and tracking framework by Ultralytics,https://github.com/ultralytics/ultralytics
+OpenCV,Computer vision library,https://github.com/opencv/opencv
+FastAI,High-level deep learning library built on PyTorch,https://github.com/fastai/fastai
+Detectron2,Facebook AI’s object detection platform,https://github.com/facebookresearch/detectron2
+Stable Diffusion,Text-to-image diffusion model,https://github.com/CompVis/stable-diffusion
+DeepSpeed,Deep learning optimization library from Microsoft,https://github.com/microsoft/DeepSpeed
+Diffusers,Hugging Face library for diffusion models,https://github.com/huggingface/diffusers
+OpenMMLab,Modular deep learning framework for computer vision,https://github.com/open-mmlab
+Mediapipe,Google’s cross-platform ML framework for perception,https://github.com/google/mediapipe
+Triton,AI model compiler from OpenAI,https://github.com/openai/triton
+Albumentations,Image augmentation library for ML,https://github.com/albumentations-team/albumentations
+Pandas,Data manipulation library for Python,https://github.com/pandas-dev/pandas
+Numpy,Fundamental package for numerical computing,https://github.com/numpy/numpy
+Matplotlib,2D plotting library for Python,https://github.com/matplotlib/matplotlib
+Seaborn,Statistical data visualization in Python,https://github.com/mwaskom/seaborn
+Plotly,Interactive graphing library for Python and JavaScript,https://github.com/plotly/plotly.py
+Bokeh,Interactive visualization library for Python,https://github.com/bokeh/bokeh
+Streamlit,Framework for data science web apps,https://github.com/streamlit/streamlit
+Gradio,Build ML model interfaces easily,https://github.com/gradio-app/gradio
+Weights & Biases,Experiment tracking and ML visualization tool,https://github.com/wandb/client
+Kaggle Datasets,Collection of public data for ML and analytics,https://www.kaggle.com/datasets
+Pinecone,Vector database for AI applications,https://github.com/pinecone-io
+FAISS,Facebook’s library for similarity search and clustering,https://github.com/facebookresearch/faiss
+DeepSpeed Examples,Examples using Microsoft DeepSpeed,https://github.com/microsoft/DeepSpeedExamples
+Open Assistant,Conversational AI powered by open-source community,https://github.com/LAION-AI/Open-Assistant
+DeepLabCut,Animal pose estimation using deep learning,https://github.com/DeepLabCut/DeepLabCut
+Label Studio,Open-source data labeling tool,https://github.com/HumanSignal/label-studio
+Great Expectations,Data validation and pipeline testing framework,https://github.com/great-expectations/great_expectations
+MLflow,Open-source platform for managing ML lifecycles,https://github.com/mlflow/mlflow
+DataHub,Metadata management platform for data teams,https://github.com/datahub-project/datahub
+Feast,Feature store for machine learning,https://github.com/feast-dev/feast
+ClearML,Open-source MLOps suite,https://github.com/allegroai/clearml
+Airflow,Workflow automation and scheduling system by Apache,https://github.com/apache/airflow
+Jupyter Notebook,Interactive data science environment,https://github.com/jupyter/notebook
+ColabCode,Colab-like environment for VSCode,https://github.com/abhishekkrthakur/colabcode
+DVC,Data version control for ML projects,https://github.com/iterative/dvc
+MLPerf,Machine learning benchmark suite,https://github.com/mlcommons/training
+Awesome-Machine-Learning,Curated list of ML frameworks,https://github.com/josephmisiti/awesome-machine-learning
+
+React,JavaScript library for building user interfaces,https://github.com/facebook/react
+Next.js,Full-stack React framework for web apps,https://github.com/vercel/next.js
+Vite,Fast frontend build tool for modern web projects,https://github.com/vitejs/vite
+Angular,TypeScript-based web framework by Google,https://github.com/angular/angular
+Vue.js,Progressive JavaScript framework,https://github.com/vuejs/vue
+Svelte,Compiler that generates highly efficient JavaScript,https://github.com/sveltejs/svelte
+Tailwind CSS,Utility-first CSS framework for rapid UI design,https://github.com/tailwindlabs/tailwindcss
+Bootstrap,Popular HTML CSS and JS framework,https://github.com/twbs/bootstrap
+Bulma,Modern CSS framework based on Flexbox,https://github.com/jgthms/bulma
+Material UI,React UI framework based on Material Design,https://github.com/mui/material-ui
+Ant Design,UI framework with React components,https://github.com/ant-design/ant-design
+Chakra UI,Accessible and simple React component library,https://github.com/chakra-ui/chakra-ui
+Framer Motion,Animation library for React,https://github.com/framer/motion
+GSAP,Powerful JavaScript animation library,https://github.com/greensock/GSAP
+Three.js,JavaScript 3D library,https://github.com/mrdoob/three.js
+D3.js,Data-driven document visualization library,https://github.com/d3/d3
+Plotly.js,Interactive charts for the web,https://github.com/plotly/plotly.js
+Chart.js,Simple yet flexible charting library for web,https://github.com/chartjs/Chart.js
+ECharts,Powerful charting and visualization library,https://github.com/apache/echarts
+Flask,Lightweight Python web framework,https://github.com/pallets/flask
+Django,High-level Python web framework,https://github.com/django/django
+FastAPI,Modern Python framework for APIs,https://github.com/tiangolo/fastapi
+Sanic,Fast Python web server and framework,https://github.com/sanic-org/sanic
+Express.js,Minimal Node.js web framework,https://github.com/expressjs/express
+NestJS,Scalable server-side Node.js framework,https://github.com/nestjs/nest
+Hapi.js,Powerful and configurable Node.js framework,https://github.com/hapijs/hapi
+AdonisJS,Node.js MVC framework for backend apps,https://github.com/adonisjs/core
+Remix,React-based full-stack web framework,https://github.com/remix-run/remix
+Astro,Build fast content-focused websites,https://github.com/withastro/astro
+Gatsby,React-based static site generator,https://github.com/gatsbyjs/gatsby
+Jekyll,Static site generator for blogs and documentation,https://github.com/jekyll/jekyll
+Hugo,Fast static site generator written in Go,https://github.com/gohugoio/hugo
+Eleventy,Simple static site generator,https://github.com/11ty/eleventy
+WordPress,Open-source CMS for websites and blogs,https://github.com/WordPress/WordPress
+Drupal,Content management framework,https://github.com/drupal/drupal
+Joomla!,Popular CMS for websites and portals,https://github.com/joomla/joomla-cms
+Ghost,Professional publishing platform for modern blogs,https://github.com/TryGhost/Ghost
+Discourse,Open-source discussion forum,https://github.com/discourse/discourse
+Reddit Clone,Full-stack social discussion clone built in React + Node,https://github.com/devrath/reddit-clone
+Twitter Clone,Microblogging platform built with React and Firebase,https://github.com/john-smilga/twitter-clone-react
+YouTube Clone,Video streaming web app built with React,https://github.com/safak/youtube-react
+Netflix Clone,Movie streaming app using React and TMDB API,https://github.com/mosespace/netflix-clone
+Portfolio Website,Responsive personal portfolio built with HTML/CSS/JS,https://github.com/bedimcode/responsive-portfolio
+E-commerce Website,Full-stack online store using Django + React,https://github.com/danielgatis/remix-ecommerce
+Blog App,Markdown-based blog web app using Flask,https://github.com/CoreyMSchafer/code_snippets
+Task Manager,To-do app using Django REST framework,https://github.com/DjangoGirls/tutorial
+URL Shortener,Web app to shorten long URLs with Flask,https://github.com/delimitry/url-shortener
+Weather Dashboard,Weather app using OpenWeather API,https://github.com/CodeExplainedRepo/Weather-App
+Quiz Web App,Dynamic quiz platform using HTML/CSS/JS,https://github.com/WebDevSimplified/JavaScript-Quiz-App
+Chat Application,Real-time chat app using Node.js and Socket.io,https://github.com/socketio/chat-example
+
+Flutter,UI toolkit for building natively compiled apps,https://github.com/flutter/flutter
+React Native,Framework for building native apps with React,https://github.com/facebook/react-native
+Ionic,Hybrid mobile app development framework,https://github.com/ionic-team/ionic-framework
+NativeScript,Build native mobile apps with JavaScript,https://github.com/NativeScript/NativeScript
+Kivy,Python framework for mobile and multitouch apps,https://github.com/kivy/kivy
+Expo,Platform for React Native development,https://github.com/expo/expo
+Firebase Examples,Sample apps using Firebase services,https://github.com/firebase/quickstart-js
+PWA Starter,Progressive Web App boilerplate,https://github.com/pwa-builder/pwa-starter
+Android Jetpack Samples,Google’s modern Android architecture samples,https://github.com/android/architecture-samples
+Compose Samples,Jetpack Compose UI samples,https://github.com/android/compose-samples
+ToDo App Flutter,Simple Flutter task manager app,https://github.com/afgprogrammer/flutter-todo-app
+Weather App Flutter,Flutter app using OpenWeather API,https://github.com/londonappbrewery/Clima-Flutter
+Chat App Flutter,Real-time chat with Firebase,https://github.com/sbis04/flutter_chat_app
+Food Delivery Flutter,Food ordering app UI template,https://github.com/JideGuru/FlutterFoodybite
+BMI Calculator Flutter,Health calculator mobile app,https://github.com/londonappbrewery/BMI-Calculator-Flutter
+Expense Tracker Flutter,Personal finance tracker,https://github.com/rohithasrk/expense-tracker-flutter
+Notes App Flutter,Offline note-taking app,https://github.com/abuanwar072/Flutter-Note-App
+Calculator App Flutter,Simple calculator with Flutter,https://github.com/TechieBlossom/Flutter-Calculator
+E-commerce App Flutter,Complete store app UI with cart,https://github.com/TheAlphamerc/flutter_ecommerce_app
+Login UI Flutter,Authentication UI templates,https://github.com/JideGuru/LoginPage-Flutter
+Movie App Flutter,Movie browser app using TMDB API,https://github.com/abhishekdoshi26/Flutter-Movie-App
+AI Chatbot Flutter,Chatbot using OpenAI API,https://github.com/shubhams167/AI-Chatbot
+Travel App Flutter,UI for booking tours and destinations,https://github.com/abuanwar072/Flutter-Travel-App
+News App Flutter,Live news fetcher using NewsAPI,https://github.com/ishandeveloper/NewsApp-Flutter
+Spotify Clone Flutter,Music player clone using Spotify API,https://github.com/gabrielTheCode/SpotifyClone
+YouTube Clone Flutter,Video streaming Flutter app,https://github.com/DevloperRaj/flutter_youtube_clone
+Amazon Clone Flutter,E-commerce app clone for practice,https://github.com/GursheeshSingh/flutter_amazon_clone
+LinkedIn Clone Flutter,Professional network clone,https://github.com/Sammy970/LinkedIn-Clone-Flutter
+Netflix Clone Flutter,Movie app using Flutter and Firebase,https://github.com/kishansagathiya/netflix-clone-flutter
+Docker,Open platform for developing and running apps,https://github.com/docker/docker-ce
+Kubernetes,Container orchestration system,https://github.com/kubernetes/kubernetes
+Jenkins,Automation server for CI/CD pipelines,https://github.com/jenkinsci/jenkins
+Ansible,Automation tool for configuration management,https://github.com/ansible/ansible
+Terraform,Infrastructure as code for cloud provisioning,https://github.com/hashicorp/terraform
+Vagrant,Development environment management tool,https://github.com/hashicorp/vagrant
+Prometheus,System monitoring and alerting toolkit,https://github.com/prometheus/prometheus
+Grafana,Data visualization and monitoring platform,https://github.com/grafana/grafana
+ElasticSearch,Distributed search and analytics engine,https://github.com/elastic/elasticsearch
+Logstash,Data collection and processing pipeline,https://github.com/elastic/logstash
+Kibana,Visualization dashboard for Elasticsearch,https://github.com/elastic/kibana
+AWS SDK Examples,AWS service integration examples,https://github.com/awsdocs/aws-doc-sdk-examples
+AWS Lambda Blueprints,Serverless app examples,https://github.com/awslabs/aws-lambda-blueprints
+Azure Samples,Microsoft Azure service demos,https://github.com/Azure-Samples
+GCP Samples,Google Cloud example projects,https://github.com/GoogleCloudPlatform
+OpenFaaS,Serverless functions made simple with Docker,https://github.com/openfaas/faas
+Serverless Framework,Toolkit for deploying serverless apps,https://github.com/serverless/serverless
+CI/CD Demo,Continuous integration with GitHub Actions,https://github.com/actions/starter-workflows
+DevOps Project,Automated deployment example with Jenkins,https://github.com/shekhargulati/devops-project
+Microservices Sample,Microservice architecture demo,https://github.com/microservices-demo/microservices-demo
+Cloud Resume Challenge,Full-stack cloud project using AWS,https://github.com/cloudresumechallenge
+GitHub Student Developer Pack,Free tools and credits for students,https://github.com/EddieHubCommunity
+Open Source Portfolio Template,Personal portfolio built for devs,https://github.com/ritikpatni/Portfolio-Website
+
+TensorFlow,Machine learning framework by Google,https://github.com/tensorflow/tensorflow
+PyTorch,Deep learning framework by Meta,https://github.com/pytorch/pytorch
+Scikit-learn,ML library for Python,https://github.com/scikit-learn/scikit-learn
+Keras,Deep learning API running on TensorFlow,https://github.com/keras-team/keras
+Hugging Face Transformers,State-of-the-art NLP models,https://github.com/huggingface/transformers
+FastAI,High-level PyTorch wrapper for ML,https://github.com/fastai/fastai
+XGBoost,Gradient boosting for classification and regression,https://github.com/dmlc/xgboost
+LightGBM,Fast gradient boosting by Microsoft,https://github.com/microsoft/LightGBM
+CatBoost,Boosting library from Yandex,https://github.com/catboost/catboost
+OpenCV,Computer vision and image processing library,https://github.com/opencv/opencv
+Mediapipe,Google’s ML framework for real-time CV,https://github.com/google/mediapipe
+YOLOv8,Real-time object detection system,https://github.com/ultralytics/ultralytics
+Detectron2,Facebook AI Research object detection library,https://github.com/facebookresearch/detectron2
+DeepFace,Face recognition library for Python,https://github.com/serengil/deepface
+OpenPose,Multi-person pose estimation,https://github.com/CMU-Perceptual-Computing-Lab/openpose
+Tesseract OCR,Optical character recognition engine,https://github.com/tesseract-ocr/tesseract
+SpeechRecognition,Python library for speech to text,https://github.com/Uberi/speech_recognition
+DeepSpeech,Speech recognition by Mozilla,https://github.com/mozilla/DeepSpeech
+Whisper AI,Automatic speech recognition by OpenAI,https://github.com/openai/whisper
+ChatGPT API,OpenAI’s conversational AI integration,https://github.com/openai/openai-cookbook
+LangChain,Framework for building LLM applications,https://github.com/langchain-ai/langchain
+LlamaIndex,Data framework for LLM-powered apps,https://github.com/jerryjliu/llama_index
+Stable Diffusion,AI text-to-image generator,https://github.com/CompVis/stable-diffusion
+Diffusers,Hugging Face diffusion model library,https://github.com/huggingface/diffusers
+Midjourney Alternatives,AI art generation open projects,https://github.com/lkwq007/stablediffusion-infinity
+Pandas,Data manipulation and analysis library,https://github.com/pandas-dev/pandas
+NumPy,Scientific computing with Python,https://github.com/numpy/numpy
+Matplotlib,Data visualization library,https://github.com/matplotlib/matplotlib
+Seaborn,Statistical data visualization,https://github.com/mwaskom/seaborn
+Plotly,Interactive graphing library,https://github.com/plotly/plotly.py
+Bokeh,Interactive visualization for web,https://github.com/bokeh/bokeh
+Streamlit,Framework for data apps,https://github.com/streamlit/streamlit
+Dash,Analytical web apps with Python,https://github.com/plotly/dash
+Gradio,ML model UI interface builder,https://github.com/gradio-app/gradio
+Data Science Project Template,End-to-end ML project skeleton,https://github.com/DrivenData/data-science-template
+Titanic Survival Prediction,ML project using Titanic dataset,https://github.com/datasciencedojo/datasets
+Iris Classification,Classic ML classification example,https://github.com/mwaskom/seaborn-data
+MNIST Digit Recognizer,Handwritten digit recognition model,https://github.com/keras-team/keras/tree/master/examples
+Image Caption Generator,Deep learning image captioning,https://github.com/anujshah1003/Image-Caption-Generator
+Emotion Detection,Detect emotions from facial images,https://github.com/atulapra/Emotion-detection
+Fake News Detection,ML model for fake news classification,https://github.com/jrieke/fake-news-detection
+Spam Email Classifier,Naive Bayes spam detection project,https://github.com/nikhilkumarsingh/spam-classifier
+Heart Disease Prediction,ML model for medical data analysis,https://github.com/krishnaik06/Heart-Disease-Prediction
+Brain Tumor Detection,Deep learning medical image analysis,https://github.com/sartajbhuvaji/Brain-Tumor-Classification
+AI Resume Screener,Automated resume analysis tool,https://github.com/abhishekkrthakur/resume-screener
+AI Chatbot Python,Conversational bot using NLP,https://github.com/gunthercox/ChatterBot
+Object Detection Flask,YOLO with Flask web app,https://github.com/theAIGuysCode/YOLOv4-Cloud-Tutorial
+Handwritten Text Recognition,Deep learning OCR model,https://github.com/githubharald/SimpleHTR
+Autonomous Car Simulation,Self-driving car ML project,https://github.com/udacity/self-driving-car
+Stock Market Prediction,ML model for financial forecasting,https://github.com/borisbanushev/stockpredictionai
+
+React,JavaScript library for building UIs,https://github.com/facebook/react
+Next.js,React framework for production apps,https://github.com/vercel/next.js
+Vue.js,Progressive JavaScript framework,https://github.com/vuejs/core
+Angular,Google’s web app framework,https://github.com/angular/angular
+Svelte,Compiler for reactive web apps,https://github.com/sveltejs/svelte
+Bootstrap,Frontend toolkit for web design,https://github.com/twbs/bootstrap
+Tailwind CSS,Utility-first CSS framework,https://github.com/tailwindlabs/tailwindcss
+Material UI,React UI component library,https://github.com/mui/material-ui
+Django,Python web framework for rapid dev,https://github.com/django/django
+Flask,Lightweight Python web framework,https://github.com/pallets/flask
+FastAPI,High-performance Python web framework,https://github.com/tiangolo/fastapi
+Express.js,Web framework for Node.js,https://github.com/expressjs/express
+Node.js,JavaScript runtime environment,https://github.com/nodejs/node
+NestJS,Progressive Node.js framework,https://github.com/nestjs/nest
+Spring Boot,Java framework for microservices,https://github.com/spring-projects/spring-boot
+Laravel,PHP web framework,https://github.com/laravel/laravel
+Ruby on Rails,Full-stack web framework in Ruby,https://github.com/rails/rails
+ASP.NET Core,Microsoft web framework,https://github.com/dotnet/aspnetcore
+WordPress,Popular CMS for websites,https://github.com/WordPress/WordPress
+Ghost,Modern publishing platform,https://github.com/TryGhost/Ghost
+Strapi,Open-source headless CMS,https://github.com/strapi/strapi
+Sanity.io,Headless CMS for structured content,https://github.com/sanity-io/sanity
+Directus,Open data platform & CMS,https://github.com/directus/directus
+RedwoodJS,Full-stack framework with React & GraphQL,https://github.com/redwoodjs/redwood
+Remix,Full-stack React web framework,https://github.com/remix-run/remix
+Blitz.js,Full-stack React framework built on Next.js,https://github.com/blitz-js/blitz
+SaaS Boilerplate,Starter kit for SaaS web apps,https://github.com/async-labs/saas
+Open WebUI,AI-powered web interface,https://github.com/open-webui/open-webui
+Portfolio Template React,Modern developer portfolio,https://github.com/abhisheknaiidu/awesome-developer-portfolio
+Resume Builder,Online resume generator,https://github.com/salomonelli/best-resume-ever
+Chat Application,Real-time chat app using Socket.io,https://github.com/anoopjohny/Chat-App
+Blogify,Full-stack blog platform in MERN,https://github.com/rahulbanerjee26/Blogify
+Weather App,Weather forecasting web app,https://github.com/erikflowers/weather-icons
+Task Manager App,To-do web app with CRUD,https://github.com/amitmerchant1990/task-manager
+Expense Tracker,MERN app for expense tracking,https://github.com/charlesdobson/expense-tracker
+E-commerce Store,Full-stack e-commerce platform,https://github.com/basir/node-react-ecommerce
+Shopify Clone,E-commerce web app clone,https://github.com/hiteshchoudhary/shopify-clone
+Netflix Clone,Streaming platform UI clone,https://github.com/satansdeer/netflix-clone
+YouTube Clone,Video sharing web app,https://github.com/grayghostvisuals/YouTube-Clone
+Spotify Clone,Music streaming web app,https://github.com/musikmaskinen/spotify-clone
+Instagram Clone,Social media clone with Firebase,https://github.com/atapas/Instagram-Clone
+Twitter Clone,Twitter-like microblogging app,https://github.com/aman-atg/twitter-clone
+Facebook Clone,Social network web app,https://github.com/basir/facebook-clone
+LinkedIn Clone,Professional network app,https://github.com/devmahmud/linkedin-clone
+ChatGPT UI Clone,Custom OpenAI-powered chat app,https://github.com/mckaywrigley/chatbot-ui
+Notion Clone,Notes & workspace web app,https://github.com/konstantinmuenster/notion-clone
+Google Docs Clone,Collaborative editor web app,https://github.com/arnabxd/Google-Docs-Clone
+Airbnb Clone,Booking & rental web platform,https://github.com/sushant-j/Airbnb-Clone
+Figma Clone,Collaborative design web tool,https://github.com/6ril/figma-clone
+Trello Clone,Project management web app,https://github.com/natterstefan/trello-clone
+Canva Clone,Design tool using React,https://github.com/dillionverma/Canva-Clone
+Calendly Clone,Meeting scheduler web app,https://github.com/shivamkapasia0/Calendly-Clone

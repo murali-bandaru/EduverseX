@@ -1,0 +1,91 @@
+title,author,content,link
+
+Learn to Code With Me Blog,Irina Smelaya,A blog helping self-taught techies with web development design & career advice,https://learntocodewith.me/blog/ :contentReference[oaicite:0]{index=0}
+freeCodeCamp News,freeCodeCamp Community,Thousands of articles on programming web development & data science,https://www.freecodecamp.org/news/
+DEV Community Blogs,DEV Community Contributors,Community-written articles on coding career tips & tutorials,https://dev.to/ :contentReference[oaicite:1]{index=1}
+CSS-Tricks,Chris Coyier,A blog focused on CSS front-end web development and design,https://css-tricks.com/
+Google Web.Dev Blog,Google Web Team,Official Google blog for modern web development best practices,https://web.dev/blog/
+Stack Overflow Blog,Stack Overflow Team,Insights on software development engineering culture & tools,https://stackoverflow.blog/
+TutorialsPoint Blog,TutorialsPoint Team,Wide-ranging tutorials on C C++ Java Web Tech & more,https://www.tutorialspoint.com/blog/
+HackerNoon Articles,HackerNoon Community,Tech stories and tutorials on software startups & hacking culture,https://hackernoon.com/
+Towards Data Science,Towards Data Science Contributors,Medium publication covering data science ML & analytics,https://towardsdatascience.com/
+DigitalOcean Community Blog,DigitalOcean Contributors,Cloud devops back-end tech & computer science tutorials,https://www.digitalocean.com/community/tutorials
+Programming Tutorials Blog,Unknown Author,Articles with code examples for languages like C++ HTML ASP.NET etc.,https://csprogrammingtutorial.blogspot.com/ :contentReference[oaicite:2]{index=2}
+Daily Dev Blog,Nimrod Kramer,Beginner’s guide: how to start coding from scratch,https://daily.dev/blog/beginners-guide-how-to-start-learning-coding-from-scratch :contentReference[oaicite:3]{index=3}
+How to Build Your Blog Site, Shelby Simmons,Tutorial series for building a blog and learning web dev,https://medium.com/codex/how-to-build-your-blog-site-a-tutorial-part-1-830bf4f52f16 :contentReference[oaicite:4]{index=4}
+Sensible Dev Blog,Author Unknown,Guide on how to start a programming blog and share your journey,https://sensibledev.com/how-to-start-a-programming-blog/ :contentReference[oaicite:5]{index=5}
+Daily Coding Journey Blog,Author Unknown,Articles documenting coding journeys and learning tech step-by-step,https://mikkegoes.com/start-a-programming-blog/ :contentReference[oaicite:6]{index=6}
+Refactoring English Blog,Author Unknown,Advice on writing blog posts that developers read,https://refactoringenglish.com/chapters/write-blog-posts-developers-read/ :contentReference[oaicite:7]{index=7}
+Blogging Your Learn-to-Code Journey,IntegerMan,Personal reflections and tutorials on learning programming,https://dev.to/integerman/blogging-your-learn-to-code-journey-3kjd :contentReference[oaicite:8]{index=8}
+CS Circles Blog,David Pritchard & Troy Vasiga,In-browser Python course & blog posts for beginners,https://arxiv.org/abs/1209.2166 :contentReference[oaicite:9]{index=9}
+Rust Web Dev Blog,Morten Vistisen,Hands-on tutorial for building a blog in Rust,https://mortenvistisen.com/posts/how-to-build-a-simple-blog-using-rust :contentReference[oaicite:10]{index=10}
+Habr Blog,Various Authors,IT & computer-science collaborative blog (EN section also),https://habr.com :contentReference[oaicite:11]{index=11}
+Open Source Connect Blog,Community Authors,Articles promoting open source contribution & student development,https://opensourceconnect.in
+
+“Beginner’s Guide: How to Start Learning Coding from Scratch”,Nimrod Kramer,Guide to start coding with zero experience and free resources,https://daily.dev/blog/beginners-guide-how-to-start-learning-coding-from-scratch :contentReference[oaicite:0]{index=0}
+“How to Build Your Blog Site: A Tutorial Part 1”,Shelby Simmons,Tutorial series to build your own blog site using HTML/CSS/JS,https://medium.com/codex/how-to-build-your-blog-site-a-tutorial-part-1-830bf4f52f16 :contentReference[oaicite:1]{index=1}
+“Blogging Your Learn-to-Code Journey”,IntegerMan,Personal reflections and tutorials on learning programming through blogging,https://dev.to/integerman/blogging-your-learn-to-code-journey-3kjd :contentReference[oaicite:2]{index=2}
+“How To Start A Programming Blog In 2025: Step-by-Step Tutorial”,Mikke,Comprehensive article on starting a tech blog from scratch,https://mikkegoes.com/start-a-programming-blog/ :contentReference[oaicite:3]{index=3}
+“A Beginner’s Guide to Starting a Software Development Blog”,Harry,Experience-based tips and pitfalls for developer blogs,https://harrk.dev/a-beginners-guide-to-starting-a-software-development-blog/ :contentReference[oaicite:4]{index=4}
+“How to Start a Programming Blog”,Sensible Dev,Guide aimed at developers wanting to publish their coding thoughts,https://www.sensibledev.com/how-to-start-a-programming-blog/ :contentReference[oaicite:5]{index=5}
+“Programming Tutorials”,Unknown,Wide ranging tutorials in C++ HTML ASP.NET and more,https://csprogrammingtutorial.blogspot.com/ :contentReference[oaicite:6]{index=6}
+“Learn to Code With Me Blog | Articles on Learning Tech Skills”,Irina Smelaya,Help for self-taught techies — web dev freelancing & career advice,https://learntocodewith.me/blog/ :contentReference[oaicite:7]{index=7}
+“Community-written articles on coding career tips & tutorials”,DEV Community Contributors,Community blog posts on programming and career,https://dev.to/ :contentReference[oaicite:8]{index=8}
+“CSS-Tricks”,Chris Coyier,Focused on CSS front-end web development and design tricks,https://css-tricks.com/ 
+“Google Web.Dev Blog”,Google Web Team,Official blog for modern web development best practices,https://web.dev/blog/ 
+“Stack Overflow Blog”,Stack Overflow Team,Insights into software development engineering culture and tools,https://stackoverflow.blog/ 
+“TutorialsPoint Blog”,TutorialsPoint Team,Tutorials and articles on numerous programming languages & tech,https://www.tutorialspoint.com/blog/ 
+“HackerNoon Articles”,HackerNoon Community,Tech stories tutorials and startup culture,https://hackernoon.com/ 
+“Towards Data Science”,Towards Data Science Contributors,Medium publication covering data science & analytics,https://towardsdatascience.com/ 
+“DigitalOcean Community Blog”,DigitalOcean Contributors,Cloud devops and back-end tech tutorials,https://www.digitalocean.com/community/tutorials 
+“Open Source Connect Blog”,Community Authors,Articles promoting open source contribution & student development,https://opensourceconnect.in 
+“How to Create a Working Blogging Website with Pure HTML, CSS and JS”,TheModernWeb Team Tutorial to build a blogging website without frameworks,https://dev.to/themodernweb/fullstack-how-to-create-a-working-blogging-website-with-pure-html-css-and-js-in-2021-9di :contentReference[oaicite:9]{index=9}
+“Learning Rust by Creating Your Own Blog”,Morten Vistisen,Hands-on tutorial for building your blog in Rust,https://mortenvistisen.com/posts/how-to-build-a-simple-blog-using-rust :contentReference[oaicite:10]{index=10}
+“Build your first Astro Blog”,Astro Team,Tutorial for building a fully functioning blog with Astro,https://docs.astro.build/en/tutorial/0-introduction/ :contentReference[oaicite:11]{index=11}
+“Code Words – Recurse Center”,Rachel Honor Vincent & Contributors,Online publication covering programming tools and CS concepts,https://codewords.recurse.com/ :contentReference[oaicite:12]{index=12}
+“Build a Microblog with Django”,Wired Magazine,Step-by-step guide to build a microblog with Django,https://www.wired.com/2010/02/build-a-microblog-with-django :contentReference[oaicite:13]{index=13}
+“Cheat Sheets: Learn Programming Languages the Easy Way”,Scott Klarr,Overview of programming cheat sheets for quick learning,https://www.wired.com/2008/02/cheat-sheets-learn-programming-languages-the-easy-way :contentReference[oaicite:14]{index=14}
+“AppJet Schools You With In-Browser JavaScript IDE and Tutorial”,Article,Describes online JavaScript tutorial & editor,https://www.wired.com/2008/08/appjet-schools-you-with-in-browser-javascript-ide-and-tutorial :contentReference[oaicite:15]{index=15}
+
+Real Python,Real Python Team,Comprehensive Python tutorials from beginner to advanced,https://realpython.com
+Better Programming,Multiple Authors,A community-driven publication with programming tips and tutorials,https://betterprogramming.pub
+David Walsh Blog,David Walsh,Web development insights and JavaScript techniques,https://davidwalsh.name
+Coding Horror,Jeff Atwood,Thoughtful essays on software development and engineering culture,https://blog.codinghorror.com/ :contentReference[oaicite:0]{index=0}
+Mozilla Blog,Mozilla Team,Articles on web technologies open web and front-end best practices,https://blog.mozilla.org
+The Crazy Programmer,Unknown,Beginner-friendly tutorials on C Android PHP and other languages,https://thecrazyprogrammer.com :contentReference[oaicite:1]{index=1}
+Hackr.io Blog,Community Contributors,Curated list of tutorials and coding resources for learners,https://hackr.io/blog :contentReference[oaicite:2]{index=2}
+Designveloper Blog,Designveloper Team,Latest insights & tutorials in web development and front-end,https://designveloper.com/blog/ :contentReference[oaicite:3]{index=3}
+LambdaTest Blog,Arnab Roy Chowdhury & Team,Top programming blogs and how to upskill in tech,https://lambdatest.com/blog/best-blogs-to-increase-your-skill-in-the-world-of-programming/ :contentReference[oaicite:4]{index=4}
+Web Designer Depot Editorial Team,Web Designer Depot,Web design & development articles including CSS UX & tools,https://www.webdesignerdepot.com
+DZone Blog,DZone Contributors,Software development and architecture topics for new and experienced programmers,https://dzone.com/blogs
+SitePoint Blog,SitePoint Team,Tutorials and articles on web technologies HTML CSS & JS,https://www.sitepoint.com
+Stack Overflow Blog,Stack Overflow Team,Insights on software development open source and developer culture,https://stack­overflow.blog/ :contentReference[oaicite:5]{index=5}
+TutorialsPoint Blog,TutorialsPoint Team,Wide-ranging programming tutorials and articles,https://www.tutorialspoint.com/blog/ :contentReference[oaicite:6]{index=6}
+Smashing Magazine Editorial Team,Smashing Magazine,Web design & UX focused blog with practical tutorials,https://www.smashingmagazine.com
+CodeNewbie Blog,CodeNewbie Team,Stories and resources for programmers who are new to coding,https://www.codenewbie.org/blog
+FreeCodeCamp News,freeCodeCamp Community,Large collection of articles for coding web dev data science & career tips,https://www.freecodecamp.org/news/ :contentReference[oaicite:7]{index=7}
+DEV Community Blogs,DEV Community Contributors,Community-written coding tutorials and career advice,https://dev.to/ :contentReference[oaicite:8]{index=8}
+Open Source Connect Blog,Community Authors,Articles promoting open source involvement and student development,https://opensourceconnect.in
+Code Words – Recurse Center,Rachel Honor Vincent & Contributors,Essays and tutorials on programming education and hackers,https://codewords.recurse.com/ :contentReference[oaicite:9]{index=9}
+Programmr Blog,Programmr Team,Programming challenges and tutorials to practice and improve,https://www.programmr.com/blog
+
+The Daily WTF,Alex Papadimoulis,Humorous stories of bad code and software-engineering pitfalls,https://thedailywtf.com :contentReference[oaicite:0]{index=0}
+Better Programming (Medium),Multiple Authors,A community blog publishing tutorials and tech-career articles,https://betterprogramming.pub :contentReference[oaicite:1]{index=1}
+Web Designer Depot Editorial Team,Web Designer Depot,Articles on web design UX & front-end development,https://www.webdesignerdepot.com :contentReference[oaicite:2]{index=2}
+Code Words – Recurse Center,Rachel Honor Vincent & Contributors,In-depth articles on programming tools CS concepts & learning,https://codewords.recurse.com/ :contentReference[oaicite:3]{index=3}
+Hackr.io Blog,Community Contributors,Curated tutorials & resources across programming languages,https://hackr.io/blog :contentReference[oaicite:4]{index=4}
+DZone Blog,DZone Contributors,Articles on software development  architecture and industry practice,https://dzone.com/blogs :contentReference[oaicite:5]{index=5}
+GeeksforGeeks Blog,GeeksforGeeks Team,Tutorials on programming languages data structures and interview prep,https://www.geeksforgeeks.org/blogs/ :contentReference[oaicite:6]{index=6}
+Real Python,Real Python Team,High-quality Python tutorials from beginner to advanced,https://realpython.com/blog/ :contentReference[oaicite:7]{index=7}
+Coding with Kids Blog,Coding with Kids Team,Articles on teaching coding and problem-solving for youth,https://www.codingwithkids.com/blog :contentReference[oaicite:8]{index=8}
+TutorialsPoint Blog,TutorialsPoint Team,Wide-ranging tutorials and articles on many programming languages and topics,https://www.tutorialspoint.com/blog/ :contentReference[oaicite:9]{index=9}
+Coding Horror,Jeff Atwood,Thought-provoking essays on software development and culture,https://blog.codinghorror.com/ :contentReference[oaicite:10]{index=10}
+The Mozilla Blog,Mozilla Team,Articles on web technologies standards & front-end development,https://blog.mozilla.org :contentReference[oaicite:11]{index=11}
+The Daily DEV Blog,Daily Dev Team,Blogs aimed at aspiring programmers and tech learners,https://daily.dev/blog/ :contentReference[oaicite:12]{index=12}
+Open Source Connect Blog,Community Authors,Content promoting open source contribution and student development,https://opensourceconnect.in :contentReference[oaicite:13]{index=13}
+Smashing Magazine Editorial Team,Smashing Magazine,Design & UX focused blog with practical web-dev tutorials,https://www.smashingmagazine.com :contentReference[oaicite:14]{index=14}
+Better Code Blog,Unknown,Essays and reflections on writing clean code and developer practice,https://bettercode.blog/
+Stack Overflow Blog,Stack Overflow Team,Insights on software dev tools culture & engineering,https://stackoverflow.blog/ :contentReference[oaicite:15]{index=15}
+BloggingIdol – Best Programming Blogs List,Unknown,Reviews and ranking of programming blogs for learners,https://bloggingidol.com/best-programming-blogs/ :contentReference[oaicite:16]{index=16}
+BrightChamps Blog Team,BrightChamps Team,Top blogs for kids learning coding & STEM skills,https://brightchamps.com/blog/coding-kids-blogs/ :contentReference[oaicite:17]{index=17}
+Goodwall Blog Team,Goodwall Team,List of best coding websites & blogs for programming learners,https://www.goodwall.io/blog/best-coding-websites/ :contentReference[oaicite:18]{index=18}
