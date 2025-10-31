@@ -1,5 +1,4 @@
 
-# Full CSV-backed Education Finder app (copy-paste)
 import os
 import csv
 import json
@@ -41,9 +40,8 @@ HACKATHONS_CSV = os.path.join(DATA_DIR, 'hackathons.csv')
 INTERNSHIPS_CSV = os.path.join(DATA_DIR, 'internships.csv')
 SCHOLARSHIPS_CSV = os.path.join(DATA_DIR, 'scholarships.csv')
 CODING_CSV = os.path.join(DATA_DIR, 'coding_practice.csv')
-RESOURCES_EXTRA_CSV = os.path.join(DATA_DIR, 'resources.csv')  # same as RESOURCES_CSV
+RESOURCES_EXTRA_CSV = os.path.join(DATA_DIR, 'resources.csv')  
 
-# ensure CSVs exist with headers
 def ensure_csv(path, headers):
     if not os.path.exists(path):
         df = pd.DataFrame(columns=headers)
@@ -118,7 +116,7 @@ def add_user(name, email, password):
     return True, "Registered"
 
 
-# seed sample data if empty
+#  sample data if empty
 def seed_sample_data():
     # Institutions
     df = pd.read_csv(INSTITUTIONS_CSV)
@@ -542,3 +540,4 @@ def static_files(filename):
 
 if __name__ == '__main__':
     app.run(debug=True)
+
