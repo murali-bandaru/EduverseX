@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="card">
+  <h2>Your Achievements</h2>
+  <p>Points: <strong>{{ ach.points }}</strong></p>
+  <p>Streak: <strong>{{ ach.streak }}</strong></p>
+  <p>Badges:</p>
+  <ul>
+    {% for b in badges %}
+      <li>{{ b }}</li>
+    {% endfor %}
+    {% if badges|length == 0 %}<li>— No badges yet</li>{% endif %}
+  </ul>
+  <p><button class="btn" onclick="dailyCheckin()">Daily Check-in</button></p>
+</div>
+{% endblock %}

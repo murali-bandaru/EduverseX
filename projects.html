@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="card">
+  <h2>Student Projects</h2>
+  <table class="table">
+    <thead><tr><th>Title</th><th>Description</th><th></th></tr></thead>
+    <tbody>
+    {% for p in projects %}
+         <tr>
+        <td>{{ p.title }}</td>
+        <td>{{ p.description }}</td>
+        
+        <td><a class="btn" href="{{ p.link }}" target="_blank">Visit</a></td>
+      </tr>
+    {% endfor %}
+    </tbody>
+  </table>
+</div>
+{% endblock %}

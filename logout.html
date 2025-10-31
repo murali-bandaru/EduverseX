@@ -1,0 +1,7 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="card">
+  <h2>You are logged out</h2>
+  <p><a class="btn" href="{{ url_for('login') }}">Login again</a></p>
+</div>
+{% endblock %}

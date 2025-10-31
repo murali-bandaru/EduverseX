@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="card">
+  <h2>FAQs</h2>
+  <table class="table">
+    <thead><tr><th>Questions</th><th>Answers</th><th></th></tr></thead>
+    <tbody>
+    {% for f in faqs %}
+       <tr>
+        <td>{{ f.question }}</td>
+        <td>{{ f.answer }}</td>
+        
+      </tr>
+    {% endfor %}
+  </tbody>
+  </table>
+</div>
+{% endblock %}

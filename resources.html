@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="card">
+  <h2>Resources — curated links</h2>
+  {% for r in resources %}
+    <div class="list-row">
+      <div>
+        <strong>{{ r.title }}</strong><br>
+        <small>{{ r.category }} — {{ r.description }}</small>
+      </div>
+      <div><a class="btn" href="{{ r.link }}" target="_blank">Open</a></div>
+    </div>
+  {% endfor %}
+</div>
+{% endblock %}

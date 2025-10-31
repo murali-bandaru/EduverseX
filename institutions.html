@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="card">
+  <h2>Institutions</h2>
+  <form method="get" style="margin-bottom:12px" class="form-row">
+    <input name="q" placeholder="Search (program or institution)" value="{{ q }}">
+    <input name="country" placeholder="Country">
+    <input name="level" placeholder="Level (Bachelors/Masters)">
+    <input name="budget" placeholder="Max tuition (USD)">
+    <button class="btn" type="submit">Search</button>
+  </form>
+
+  {% if results %}
+    <table class="table">
+      <thead><tr><th>Institution</th><th>Program</th><th>Country</th><th>Tuition (USD)</th><th></th></tr></thead>
+      <tbody>
+      {% for r in results %}
+        <tr>
+          <td>{{ r.institution }}</td>
+          <td>{{ r.program }}</td>
+          <td>{{ r.country }}</td>
+          <td>{{ r.tuition_usd }}</td>
+          <td><a class="btn" href="{{ url_for('details', inst_id=r.id) }}">Details</a></td>
+        </tr>
+      {% endfor %}
+      </tbody>
+    </table>
+  {% else %}
+    <p>No institutions found.</p>
+  {% endif %}
+</div>
+{% endblock %}

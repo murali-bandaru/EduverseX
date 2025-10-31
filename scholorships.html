@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="card">
+  <h2>Scholarships</h2>
+  <table class="table">
+    <thead><tr><th>Scholarship</th><th>Provider</th><th>Eligibility</th><th></th></tr></thead>
+    <tbody>
+    {% for s in scholarships %}
+      <tr>
+        <td>{{ s.Scholarship }}</td>
+        <td>{{ s.Provider }}</td>
+        <td>{{ s.Eligibility }}</td>
+        <td><a class="btn" href="{{ s.Link }}" target="_blank">Details</a></td>
+      </tr>
+    {% endfor %}
+    </tbody>
+  </table>
+</div>
+{% endblock %}

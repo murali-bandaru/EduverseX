@@ -1,0 +1,106 @@
+{% extends "base.html" %}
+{% block content %}
+<style>
+  body {
+    background: linear-gradient(135deg, #6a11cb 0%, #2575fc 100%);
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+  }
+
+  .login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 85vh;
+  }
+
+  .login-card {
+    background: rgba(255, 255, 255, 0.12);
+    backdrop-filter: blur(10px);
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    width: 380px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+
+  .login-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 40px rgba(0, 0, 0, 0.3);
+  }
+
+  .login-title {
+    font-size: 28px;
+    font-weight: 700;
+    background: linear-gradient(90deg, #ff6a00, #ee0979);
+    background-clip: text;
+    color: transparent;
+    margin-bottom: 25px;
+  }
+
+  input {
+    width: 100%;
+    padding: 12px;
+    border-radius: 8px;
+    border: none;
+    margin: 10px 0;
+    font-size: 15px;
+    box-sizing: border-box;
+    outline: none;
+  }
+
+  input:focus {
+    box-shadow: 0 0 6px rgba(255, 255, 255, 0.6);
+  }
+
+  .btn-login {
+    background: linear-gradient(90deg, #ff6a00, #ee0979);
+    border: none;
+    color: white;
+    font-weight: 600;
+    padding: 12px 25px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background 0.3s ease, transform 0.2s ease;
+  }
+
+  .btn-login:hover {
+    background: linear-gradient(90deg, #ee0979, #ff6a00);
+    transform: scale(1.05);
+  }
+
+  .register-text {
+    margin-top: 15px;
+    font-size: 14px;
+  }
+
+  .register-text a {
+    color: #ffcc00;
+    font-weight: 600;
+    text-decoration: none;
+  }
+
+  .register-text a:hover {
+    text-decoration: underline;
+  }
+
+  /* Hide navigation bar (optional if base.html includes nav) */
+  nav {
+    display: none !important;
+  }
+</style>
+
+<div class="login-container">
+  <div class="login-card">
+    <h2 class="login-title">Welcome Back 👋</h2>
+    <form method="post">
+      <input name="email" placeholder="Email" type="email" required>
+      <input name="password" placeholder="Password" type="password" required>
+      <button type="submit" class="btn-login">Login</button>
+    </form>
+    <p class="register-text">Don't have an account? <a href="{{ url_for('register') }}">Register here</a></p>
+  </div>
+</div>
+{% endblock %}

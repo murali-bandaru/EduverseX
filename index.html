@@ -1,0 +1,166 @@
+{% extends "base.html" %}
+{% block content %}
+<style>
+  body {
+    background: linear-gradient(135deg, hsl(105, 11%, 93%) 0%, hsl(0, 9%, 96%) 100%);
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+  }
+
+  .hero-section {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 50px;
+    text-align: center;
+  }
+
+  .hero-text {
+    max-width: 500px;
+  }
+
+  .hero-text h2 {
+    font-size: 36px;
+    background: linear-gradient(90deg, #ff6a00, #ee0979);
+    background-clip: text;
+    color: transparent;
+    margin-bottom: 15px;
+    font-weight: 700;
+  }
+
+  .hero-text p {
+    font-size: 18px;
+    color: #f1f1f1;
+    margin-bottom: 20px;
+  }
+
+  .hero-text .btn {
+    background: linear-gradient(90deg, #ff6a00, #ee0979);
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: 600;
+    text-decoration: none;
+    transition: all 0.3s ease;
+  }
+
+  .hero-text .btn:hover {
+    background: linear-gradient(90deg, #ee0979, #ff6a00);
+    transform: scale(1.05);
+  }
+
+  .hero-img img {
+    width: 420px;
+    max-width: 100%;
+    border-radius: 20px;
+    animation: float 4s ease-in-out infinite;
+  }
+
+  @keyframes float {
+    0% { transform: translateY(0px); }
+    50% { transform: translateY(-10px); }
+    100% { transform: translateY(0px); }
+  }
+
+  /* Quick Links Section */
+  .quick-links {
+    margin: 60px auto;
+    padding: 20px;
+    max-width: 900px;
+    background: rgba(255, 255, 255, 0.15);
+    border-radius: 20px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+    backdrop-filter: blur(10px);
+    text-align: center;
+  }
+
+  .quick-links h3 {
+    font-size: 28px;
+    background: linear-gradient(90deg, #ffcc00, #00c9ff);
+    background-clip: text;
+    color: transparent;
+    margin-bottom: 25px;
+  }
+
+  .quick-links ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 18px;
+  }
+
+  .quick-links li {
+    display: inline-block;
+  }
+
+  .quick-links a {
+    display: inline-block;
+    padding: 12px 25px;
+    border-radius: 12px;
+    text-decoration: none;
+    color: #fff;
+    font-weight: 600;
+    font-size: 16px;
+    background: linear-gradient(45deg, #ff6a00, #ee0979);
+    transition: all 0.3s ease;
+  }
+
+  .quick-links a:hover {
+    background: linear-gradient(45deg, #ee0979, #ff6a00);
+    transform: scale(1.08);
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
+  }
+
+  /* Remove Featured Institutions Section */
+  .card h3:contains("Featured Institutions"),
+  .card p:contains("No featured institutions yet.") {
+    display: none;
+  }
+
+  /* Analytics Chart */
+  .analytics-card {
+    background: #d297011f;
+    backdrop-filter: blur(10px);
+    border-radius: 20px;
+    margin: 40px auto;
+    max-width: 900px;
+    padding: 20px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.2);
+  }
+</style>
+
+<div class="hero-section">
+  <div class="hero-text">
+    <h2>Welcome to EduverseX 🎓</h2>
+    <p>Empowering students to explore courses, hackathons, internships, and resources — all in one platform!</p>
+    <a class="btn" href="{{ url_for('courses') }}">Get Started</a>
+  </div>
+  <div class="hero-img">
+    <img src="{{ url_for('static', filename='images/images.jpg') }}" alt="Students learning">
+  </div>
+</div>
+
+<div class="quick-links">
+  <h3>Quick Links 🚀</h3>
+  <ul>
+    <li><a href="{{ url_for('coding_practice') }}">Coding Practice</a></li>
+    <li><a href="{{ url_for('blogs') }}">Blogs</a></li>
+    <li><a href="{{ url_for('projects') }}">Projects</a></li>
+    <li><a href="{{ url_for('faqs') }}">FAQs</a></li>
+    <li><a href="{{ url_for('about') }}">About</a></li>
+    
+  </ul>
+</div>
+
+{% if chart %}
+  <div class="analytics-card">
+    <h3>Analytics</h3>
+    <img src="data:image/png;base64,{{ chart }}" style="max-width:100%" alt="chart">
+  </div>
+{% endif %}
+{% endblock %}

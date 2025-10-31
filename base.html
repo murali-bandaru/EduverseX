@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>{{ title or "EduverseX" }}</title>
+  <link rel="stylesheet" href="{{ url_for('static_files', filename='css/style.css') }}">
+  <script src="{{ url_for('static_files', filename='js/script.js') }}" defer></script>
+</head>
+<body>
+  <header class="header">
+    <div class="brand">🎓 EduverseX </div>
+    <nav>
+      <a href="{{ url_for('index') }}">Home</a>
+      <a href="{{ url_for('courses') }}">Courses</a>
+      <a href="{{ url_for('hackathons') }}">Hackathons</a>
+      <a href="{{ url_for('internships') }}">Internships</a>
+      <a href="{{ url_for('institutions') }}">Institutions</a>
+      <a href="{{ url_for('resources') }}">Resources</a>
+      {% if session.get('user_email') %}
+        <a href="{{ url_for('dashboard') }}">Dashboard</a>
+         <a href="{{ url_for('login') }}">Login</a>
+      {% else %}
+       
+        <a href="{{ url_for('logout') }}">Logout</a>
+        <a href="{{ url_for('profile') }}">Profile</a>
+      {% endif %}
+    </nav>
+  </header>
+
+  <main class="container">
+    {% with messages = get_flashed_messages() %}
+      {% if messages %}
+        <div style="margin-bottom:12px">
+          {% for m in messages %}<div class="card" style="background:#fffbe6">{{ m }}</div>{% endfor %}
+        </div>
+      {% endif %}
+    {% endwith %}
+    {% block content %}{% endblock %}
+  </main>
+<div style="text-align:center; margin:20px 0;">
+  <a class="btn" href="{{ url_for('index') }}">Go to Main Page</a>
+</div>
+
+  <footer class="footer">©2025 EduverseX • Built  by Murali Bandaru</footer>
+</body>
+</html>

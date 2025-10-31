@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="card">
+  <h2>Coding Practice</h2>
+  <table class="table">
+    <thead><tr><th>Platform</th><th>Focus</th><th></th></tr></thead>
+    <tbody>
+    {% for c in coding %}
+      <tr>
+        <td>{{ c.Platform }}</td>
+        <td>{{ c.Focus }}</td>
+        <td><a class="btn" href="{{ c.Link }}" target="_blank">Open</a></td>
+      </tr>
+    {% endfor %}
+    </tbody>
+  </table>
+</div>
+{% endblock %}

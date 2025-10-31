@@ -1,0 +1,175 @@
+{% extends "base.html" %}
+{% block content %}
+
+<style>
+  body {
+    background: #f8fafc;
+  }
+
+  .register-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 90vh;
+    padding: 30px;
+  }
+
+  .register-container {
+    display: flex;
+    background: white;
+    max-width: 950px;
+    width: 100%;
+    border-radius: 20px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+  }
+
+  .register-left {
+    flex: 1;
+    background: linear-gradient(135deg, #2563eb, #06b6d4);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+    text-align: center;
+  }
+
+  .register-left img {
+    width: 85%;
+    max-width: 320px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+  }
+
+  .register-left h2 {
+    font-size: 26px;
+    margin-bottom: 8px;
+  }
+
+  .register-left p {
+    font-size: 14px;
+    line-height: 1.4;
+  }
+
+  .register-right {
+    flex: 1.2;
+    padding: 40px 50px;
+  }
+
+  .register-right h2 {
+    background: linear-gradient(90deg, #2563eb, #06b6d4);
+    color: transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+    font-size: 28px;
+    margin-bottom: 25px;
+    font-weight: 700;
+  }
+
+  .form-row {
+    display: flex;
+    gap: 15px;
+    margin-bottom: 20px;
+  }
+
+  input {
+    width: 100%;
+    padding: 12px;
+    border: 1.5px solid #d1d5db;
+    border-radius: 8px;
+    transition: all 0.3s ease;
+    font-size: 15px;
+  }
+
+  input:focus {
+    border-color: #2563eb;
+    box-shadow: 0 0 5px rgba(37, 99, 235, 0.4);
+    outline: none;
+  }
+
+  .btn {
+    background: linear-gradient(90deg, #2563eb, #06b6d4);
+    color: white;
+    border: none;
+    padding: 12px 24px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: transform 0.2s ease;
+    width: 100%;
+  }
+
+  .btn:hover {
+    transform: scale(1.05);
+  }
+
+  .bottom-link {
+    margin-top: 20px;
+    font-size: 14px;
+    text-align: center;
+  }
+
+  .bottom-link a {
+    color: #2563eb;
+    text-decoration: none;
+  }
+
+  .bottom-link a:hover {
+    text-decoration: underline;
+  }
+
+  @media (max-width: 768px) {
+    .register-container {
+      flex-direction: column;
+    }
+    .register-left {
+      padding: 20px;
+    }
+    .register-right {
+      padding: 25px;
+    }
+  }
+</style>
+
+<div class="register-wrapper">
+  <div class="register-container">
+    <div class="register-left">
+  <img src="{{ url_for('static', filename='images/students-looking-at-laptop.jpg') }}" alt="Students learning">
+
+  <h2>Welcome to EduverseX</h2>
+  <p>Join thousands of learners exploring courses, internships, and opportunities across the world!</p>
+</div>
+
+    <div class="register-right">
+      <h2>Create Your Account</h2>
+      <form method="post">
+        <div class="form-row">
+          <input name="name" placeholder="Full Name" required>
+          <input name="email" placeholder="Email" required>
+        </div>
+        <div class="form-row">
+          <input name="password" type="password" placeholder="Password" required>
+          <input name="password2" type="password" placeholder="Confirm Password" required>
+        </div>
+        <button class="btn" type="submit">Register</button>
+      </form>
+      <div class="bottom-link">
+        Already have an account? <a href="{{ url_for('login') }}">Login here</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+  document.querySelector('form').addEventListener('submit', function(e){
+    const p = document.querySelector('input[name=password]').value;
+    const p2 = document.querySelector('input[name=password2]').value;
+    if(p !== p2){
+      e.preventDefault();
+      alert('Passwords do not match');
+    }
+  });
+</script>
+
+{% endblock %}
