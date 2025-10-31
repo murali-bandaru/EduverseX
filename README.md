@@ -93,7 +93,7 @@ Make sure you have **Python 3.8+** installed.
 Murali Bandaru
 🎓 Parul Institute of Engineering and Technology, Vadodara
 📘 B.Tech – Computer Science Engineering (AI & ML)
-🔗 LinkedIn Profile-https://www.linkedin.com/in/murali-bandaru
+🔗 LinkedIn Profile-https://www.linkedin.com/in/murali-bandaru-a1b466330/
 
 🏁 License
 This project is open-source and available under the MIT License.
