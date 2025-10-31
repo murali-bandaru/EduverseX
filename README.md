@@ -88,13 +88,15 @@ Make sure you have **Python 3.8+** installed.
 
 4)Implement AI recommendation system for students
 
+
 ###👨‍💻 Author
 Murali Bandaru
 🎓 Parul Institute of Engineering and Technology, Vadodara
 📘 B.Tech – Computer Science Engineering (AI & ML)
-🔗 LinkedIn Profile-
+🔗 LinkedIn Profile-https://www.linkedin.com/in/murali-bandaru
 
 🏁 License
 This project is open-source and available under the MIT License.
 
 ⭐ “Education is not the learning of facts, but the training of the mind to think.” — Albert Einstein
+
